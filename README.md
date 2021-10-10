@@ -1,6 +1,6 @@
 <h2> Hey there! 👋 </h2>
 
-- 🧑‍🎓 I'm Tanmay, Masters Computer Science (Big Data) Student at SFU, Burnaby. 
+- 🧑‍🎓 I'm Tanmay Jain, a Masters Computer Science (Big Data) Student at SFU, Burnaby. 
 - ⏳ I’m currently working on 
 - 💡 I’m looking to collaborate on python based projects preferably related to Data Science/ML.
 - 📚 I’m currently learning underlying concepts of neural networks and natural language processing.
