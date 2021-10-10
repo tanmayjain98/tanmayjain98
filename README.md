@@ -4,7 +4,9 @@
 - ⏳ I’m currently working on 
 - 💡 I’m looking to collaborate on python based projects preferably related to Data Science/ML.
 - 📚 I’m currently learning underlying concepts of neural networks and natural language processing.
-- 💬 Reach out to discuss product ideas, opportunities or have a heated debate about current football standings. I’m always happy to chat!
+- 💬 Reach out to discuss product ideas, opportunities or have a heated debate about current football standings. 
+
+I’m always happy to chat!
 
 <!---
 tanmayjain98/tanmayjain98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
