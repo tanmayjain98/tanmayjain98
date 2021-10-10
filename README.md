@@ -1,7 +1,7 @@
 <h2> Hey there! 👋 </h2>
 
 - 🧑‍🎓 I'm Tanmay Jain, a Masters Computer Science (Big Data) Student at SFU, Burnaby. 
-- ⏳ I’m currently working on 
+- ⏳ I’m currently working on analysis of Big Data using PySpark.
 - 💡 I’m looking to collaborate on python based projects preferably related to Data Science/ML.
 - 📚 I’m currently learning underlying concepts of neural networks and natural language processing.
 - 💬 Reach out to discuss product ideas, opportunities or have a heated debate about current football standings. 
