@@ -16,7 +16,7 @@
 ### 📫 How to Reach Me
 - 📧 Feel free to connect with me for product ideas, opportunities, or simply to exchange thoughts on the latest in technology, data science, or even the current football standings!
 - 🔗 [LinkedIn](https://www.linkedin.com/in/tanmay-jain)
-- 🔗 [GitHub](https://github.com/tanmayjain)
+- 🔗 [GitHub](https://github.com/tanmayjain98)
 
 ---
 
