@@ -1,7 +1,7 @@
 ## 👋 Hello there, I'm Tanmay Jain!
 
 ### 🧑‍💻 About Me
-- 🧑‍🎓 I'm a Machine Learning / Data Engineer at OneCup AI, with a deep focus on NLP, Generative AI, and AI-driven analytics.
+- 🧑‍🎓 I'm a Machine Learning / Data Engineer with a deep focus on NLP, Generative AI, and AI-driven analytics.
 - 🌱 Passionate about leveraging Python for data extraction, managing cloud workloads on AWS, and pioneering with Generative AI models, including Large Language Models (LLMs) and Retrieval-Augmented Generation (RAG).
 - 💻 Skilled in using Cloud Infrastructure, Databricks, PySpark - efficient ETL practices to enhance and streamline complex data processes.
 
